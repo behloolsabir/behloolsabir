@@ -3,6 +3,13 @@ Welcome to my GitHub. I am an Machine Learning research engineer. My interests i
 
 Feel free to reach out to me over [LinkedIn](https://www.linkedin.com/in/behloolsabir). 
 
+###### Talks 
+* [Depression Onset Prediction on a Large Medical Claims Data Using Deep LearningPermalink](https://aiplus.odsc.com/courses/depression-onset-prediction)
+
+###### Publications 
+* [Total Joint Replacement Risk Prediction: A Deep Learning Based Approach With Claims DataPermalink](https://pubmed.ncbi.nlm.nih.gov/31259011/)
+* [Record statistics of financial time series and geometric random walksPermalink](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.90.032126)
+
 <!--
 **behloolsabir/behloolsabir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
