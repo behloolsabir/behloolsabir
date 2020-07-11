@@ -1,5 +1,5 @@
 ### Hi there 👋
-Welcome to my GitHub. I am an Machine Learning research engineer. My interests includes deployable and scalable intelligent systems. Domains of my interest are healthcare, BFSI, and aviation. 
+Welcome to my GitHub. I am an applied Machine Learning research engineer. My interests includes deployable and scalable modern intelligent systems. Domains of my interest are healthcare, BFSI, and aviation. 
 
 Feel free to reach out to me over [LinkedIn](https://www.linkedin.com/in/behloolsabir). 
 
@@ -23,3 +23,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+PS: I am bad at saying no to interesting ML problems. 
