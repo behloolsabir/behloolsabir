@@ -3,7 +3,7 @@ Welcome to my GitHub. I am an applied Machine Learning research engineer. My int
 
 Feel free to reach out to me over [LinkedIn](https://www.linkedin.com/in/behloolsabir). 
 
-##### Talks 
+##### Talk
 * [Depression Onset Prediction on a Large Medical Claims Data Using Deep Learning](https://aiplus.odsc.com/courses/depression-onset-prediction)
 ##### Publications 
 * [Total Joint Replacement Risk Prediction: A Deep Learning Based Approach With Claims Data](https://pubmed.ncbi.nlm.nih.gov/31259011/)
@@ -23,4 +23,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-PS: I am bad at saying no to interesting ML problems. 
